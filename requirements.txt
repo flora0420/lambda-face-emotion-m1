@@ -1,0 +1,11 @@
+numpy
+mangum
+fastapi
+pydantic
+uvicorn
+python-multipart
+tensorflow
+opencv-python-headless
+icrawler
+scipy
+#pymatting
